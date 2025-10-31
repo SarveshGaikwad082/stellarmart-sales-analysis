@@ -3,6 +3,8 @@
 **Comprehensive Excel-based data analysis of StellarMart’s 2023–2024 sales performance.**
 
 ---
+<img width="780" height="395" alt="image" src="https://github.com/user-attachments/assets/dc0e59d4-eaa8-4c6f-8729-9ba9f4a09e21" />
+
 
 ## 🧭 Problem Statement
 You are tasked with analyzing StellarMart's business data to provide actionable insights for strategic growth.  
