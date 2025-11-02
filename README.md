@@ -63,9 +63,8 @@ The workflow includes **data cleaning, transformation, visualization, and report
 ---
 
 ## 🧠 Tools Used
-- **Microsoft Excel** – Data Cleaning, Pivot Tables, Charts, Dashboard  
-- **Power Query** – Data Transformation  
-- **PDF Export** – Final Business Report
+- **Microsoft Excel** – Data Cleaning, Pivot Tables, Charts, Dashboard    
+- **Microsoft Word** – Final Business Report
 
 ---
 
